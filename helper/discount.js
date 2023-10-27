@@ -1,0 +1,1 @@
+exports.discount = [{ min: 0, max: 30 }, { min: 30, max: 60 }, { min: 60, max: 80 }, { min: 80, max: 100 }]
